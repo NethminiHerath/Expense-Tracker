@@ -1,8 +1,8 @@
 # 💸 Expense Tracking Platform
 
-**University of Ruhuna – EE4207 Web Application Development Project**  
-Technologies: **React.js**, **Node.js**, **Express.js**, **MongoDB (MERN Stack)**, **Spring Boot**
 
+**University of Ruhuna – EE4207 Web Application Development Project**  
+**Technologies:** React.js, Node.js, Express.js, Spring Boot, MySQL  
 ---
 
 ## 📌 Overview
@@ -32,16 +32,16 @@ The system integrates **Spring Boot** for backend logic and **React (MERN)** for
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
-| Layer       | Stack                          |
-|-------------|--------------------------------|
-| Frontend    | React.js, Tailwind CSS         |
-| Backend     | Spring Boot (Java), REST API   |
-| API Layer   | Express.js                     |
-| Database    | MongoDB                        |
-| Auth        | JWT & Spring Security          |
-| Versioning  | Git, GitHub                    |
+| Layer       | Tech Stack                          |
+|-------------|-------------------------------------|
+| Frontend    | React.js, Tailwind CSS              |
+| Backend     | Spring Boot (Java), RESTful APIs    |
+| API Routing | Node.js, Express.js (for MERN layer)|
+| Database    | MySQL                               |
+| Auth        | Spring Security + JWT               |
+| Versioning  | Git, GitHub                         |
 
 ---
 
