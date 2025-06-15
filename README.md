@@ -62,16 +62,6 @@ backend/
 
 ```
 
-## 🧪 API Highlights
-
-| Endpoint              | Method              | Description                 |
-| --------------------- | ------------------- | --------------------------- |
-| `/api/expenses`       | GET/POST/PUT/DELETE | CRUD operations on expenses |
-| `/api/income`         | GET/POST            | Manage income               |
-| `/api/creditdebit`    | GET/POST            | Manage credits and debits   |
-| `/api/users/login`    | POST                | Login and get JWT           |
-| `/api/users/register` | POST                | Register a new user         |
-
 ---
 
 ## 🎓 Academic Context
