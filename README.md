@@ -62,3 +62,17 @@ backend/
 
 ```
 
+## 🧪 API Highlights
+
+| Endpoint              | Method              | Description                 |
+| --------------------- | ------------------- | --------------------------- |
+| `/api/expenses`       | GET/POST/PUT/DELETE | CRUD operations on expenses |
+| `/api/income`         | GET/POST            | Manage income               |
+| `/api/creditdebit`    | GET/POST            | Manage credits and debits   |
+| `/api/users/login`    | POST                | Login and get JWT           |
+| `/api/users/register` | POST                | Register a new user         |
+
+---
+
+## 🎓 Academic Context
+This project was developed as part of the EE4207 – Web Application Development course under the Department of Electrical and Information Engineering, University of Ruhuna. It demonstrates full-stack web development with an emphasis on performance, security, and user experience.
